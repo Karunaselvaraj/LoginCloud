@@ -1,0 +1,34 @@
+{
+  "signup": [
+    {
+      "id": "5ad0",
+      "name1": "demo",
+      "email": "demo@123",
+      "pass": "demo"
+    },
+    {
+      "id": "a20f",
+      "name1": "abi",
+      "email": "abi@123",
+      "pass": "12345"
+    },
+    {
+      "id": "f227",
+      "name1": "gowtham",
+      "email": "gowtham@123",
+      "pass": "darnia"
+    },
+    {
+      "id": "22cc",
+      "name1": "mahesh",
+      "email": "mahesh@123",
+      "pass": "12345"
+    },
+    {
+      "id": "7473",
+      "name1": "abishek",
+      "email": "abi@123",
+      "pass": "abi123"
+    }
+  ]
+}
